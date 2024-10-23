@@ -1,0 +1,32 @@
+.home {
+    background-image: url("assets/img/home/frame_01.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+body {
+    overflow-x: hidden;
+}
+.helphome {
+    background-image: url("assets/img/home/help.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.home1 {
+    background-image: url("assets/img/home/frame_03.png");
+}
+.home2 {
+    background-image: url("assets/img/home/iphone.png");
+}
+.underline-green {
+    text-decoration: underline;
+    text-decoration-color: #00FF7F;
+}
+.confidence {
+    background-image: url("assets/img/icons/rectangle_02.png");
+}
+
+.cashback-mobile-vertical {
+    background-image: url("assets/img/home/mobile_vertical.png");
+}
+
